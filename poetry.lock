@@ -60,7 +60,7 @@ dotenv = ["python-dotenv"]
 [[package]]
 name = "flask-pydantic-spec"
 version = "0.3.1"
-description = "geneflrate OpenAPI document and validate request & response with Python annotations."
+description = "generate OpenAPI document and validate request & response with Python annotations."
 category = "main"
 optional = false
 python-versions = ">=3.6"
@@ -254,7 +254,7 @@ watchdog = ["watchdog"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "1ac5d996b18463fe6ccbb2ae6ce2f99c7a6a45bb2b03494b03b17c98849b1061"
+content-hash = "2c8f3184182025db9055f10f5e8d7ef612e5261ae4ec213bf43a15fad20d50c8"
 
 [metadata.files]
 atomicwrites = [
